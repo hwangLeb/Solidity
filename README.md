@@ -37,7 +37,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, go to "Deploy and run transactions" then you will see the contract, just select the "leb.sol" then click the deploy button.
 
-After deploy the token, you will see now at the bottom part the "Deploy Contracts" click that. In above you will see the "Account Address" copy that then go again in Deploy Contracts where you will see the "burn" and "mint".
+After deploy of the token, you will see now at the bottom part the "Deploy Contracts" click that. In above you will see the "Account Address" copy that then go again in Deploy Contracts where you will see the "burn" and "mint".
 
 In inputing, click the dropdown button in burn then paste the Account Address then put the value you want to put in, after then click the "Transact" button and it will appear that you successfully burned token, same with mint.
 
